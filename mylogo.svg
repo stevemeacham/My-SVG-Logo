@@ -28,7 +28,7 @@ Paper Mail:
   USA
 -->
 
-<svg role="img" aria-labelledby="logo-title" aria-describedby="logo-desc" viewBox="0 0 512 512">
+<svg role="img" aria-labelledby="logo-title" aria-describedby="logo-desc" viewBox="0 0 16 16">
   	<title id="logo-title">Steve Meacham&apos;s Personal Logo</title>
   	<desc id="logo-desc">The initials S and M, depicted as a circle with a zigzag inside.  The circle is a stylized letter S and resembles a light bulb.  The zigzag is a stylized letter M and resembles an incandescent light bulb filament.</desc>
 
@@ -44,31 +44,31 @@ Paper Mail:
     </defs>
     
     <!-- Background -->
-    <circle cx="255" cy="255" r="239" fill="#fdf6e3" />
+    <circle cx="7.96875" cy="7.96875" r="7.46875" fill="#fdf6e3" />
     
     <!-- Top of Letter S -->
     <path pathLength="728.8" d="
-      M 476.6,217.1 
-      A 224,224 45 0,0 32,256
-      h 64"     
-      fill="none" stroke="#657b83" stroke-width="32"></path>
+      M 14.89375,6.784375
+      A 7,7 45 0,0 1,8
+      h 2"     
+      fill="none" stroke="#657b83" stroke-width="1"></path>
 
     <!-- Bottom of Letter S -->
     <path pathLength="728.8" d="
-      M 416,256
-      h 64
-      A 224,224 0 0,1 35.4,294.9"
-      fill="none" stroke="#657b83" stroke-width="32"></path>
+      M 13,8
+      h 2
+      A 7,7 0 0,1 1.10625,9.215625"
+      fill="none" stroke="#657b83" stroke-width="1"></path>
 
     <!-- Letter M -->
     <path pathLength="686.3" d="
-      M 112,256
-      h 32
-      l 56,-96 56,192 56,-192 56,96
-      h 32"
-      fill="none" stroke="#b58900" stroke-width="32"></path>
+      M 3.5,8
+      h 1
+      l 1.75,-3 1.75,6 1.75,-6 1.75,3
+      h 1"
+      fill="none" stroke="#b58900" stroke-width="1"></path>
 
-    <text aria-hidden="true" x="312" y="308" style="font-family: glacial_indifferencebold,Futura,Trebuchet MS,Arial,sans-serif; fill:#586e75" font-size="36">
+    <text aria-hidden="true" x="9.75" y="9.625" style="font-family: glacial_indifferencebold,Futura,Trebuchet MS,Arial,sans-serif; fill:#586e75" font-size="1.125">
       eacham
     </text>
 </svg>
