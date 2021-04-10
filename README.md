@@ -1,8 +1,9 @@
 # logos
 
-My personal hand-coded and WCAG compliant SVG logo in various formats.
+My personal hand-coded, WCAG and SVG2 compliant logo, with exports to alternate formats.
 
 ## Logo Names
+
 | filename | thumbnail | description |
 | --- | --- | --- |
-| [mylogo.svg](./mylogo.svg) | [rendered image](./mylogo.svg) | The original source image file. |
+| [mylogo.svg](./mylogo.svg) | [rendered svg](./mylogo.svg) | The original source image file. |
