@@ -8,6 +8,7 @@ My personal hand-coded, WCAG and SVG2 compliant logo, with derivatives generated
 | --- | --- |
 | [mylogo.svg](./mylogo.svg) | The original source image file. |
 | [safari-pinned-tab.svg](./safari-pinned-tab.svg) | The mono-colored icon that users see when they pin a website in Safari:<br>`<link rel="mask-icon" href="safari-pinned-tab.svg" color="black">`.<br>*NOTE: This is not the file provided by https://realfavicongenerator.net.  That file was rasterized, and although smaller in size, no longer optimal.* |
+| [mylogo-legacy.svg](./mylogo-legacy.svg) | The first iteration of the logo coloring, but with everything else modernized. |
 
 ## Generated Code
 
