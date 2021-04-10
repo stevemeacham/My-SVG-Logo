@@ -1,4 +1,4 @@
-# logos
+# my-logos
 
 My personal hand-coded, WCAG and SVG2 compliant logo, with exports to alternate formats.
 
