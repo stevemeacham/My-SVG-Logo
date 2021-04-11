@@ -1,6 +1,6 @@
  <!-- 
 mylogo.svg - Steve Meachamʻs Personal Logo
-Copyright (C) 2015, 2021  Steve Meacham
+Copyright © 2015, 2021 Steve Meacham
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -68,7 +68,13 @@ Paper Mail:
       h 1"
       fill="none" stroke="#b58900" stroke-width="1"></path>
 
+    <!-- eacham -->
     <text aria-hidden="true" x="9.75" y="9.625" style="font-family: glacial_indifferencebold,Futura,Trebuchet MS,Arial,sans-serif; fill:#586e75" font-size="1.125">
       eacham
+    </text>
+
+    <!-- Trademark Symbol -->
+    <text x="11.75" y="7.625" style="font-family: glacial_indifferencebold,Futura,Trebuchet MS,Arial,sans-serif; fill:#586e75" font-size="1">
+      ™
     </text>
 </svg>
